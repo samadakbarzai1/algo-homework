@@ -2,10 +2,8 @@
 #For extra credit: Reverse the strings at the same time.
 #words = ['this' , 'is', 'a', 'sentence', '.']
 words = ['this' , 'is', 'a', 'sentence', '.']
-def reverse(list):
-    list.reverse()
+    words.reverse()
     print(list)
-#reverse(words)
 
 
 

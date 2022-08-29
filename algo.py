@@ -3,7 +3,7 @@
 #words = ['this' , 'is', 'a', 'sentence', '.']
 words = ['this' , 'is', 'a', 'sentence', '.']
     words.reverse()
-    print(list)
+    print(words)
 
 
 
